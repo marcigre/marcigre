@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-🎓 - My name is Márcio, and currently, I'm studying Software Engineering at PUCRS 
+🎓 - My name is Márcio and I'm currently studying Software Engineering at Unicesumar.
 
-☕ - For now, I'm focused on learning C#(Unity) and Java! 
+🎮 - I love to make games and I mainly use Unity and Godot to bring life to my games! I'm currently working on an faculty research project to create a game in Unity (I'll talk more about this soon!).
 
-🎮 - I'm currently working on a college scientific initiation project to create a game using Unity 
-
-⏳ - For now, I believe that's it! Soon I intend to start some open source projects!
+☕ - My strongest languages are: C#, Java, Javascript and Python!
 
